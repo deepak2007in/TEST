@@ -10,7 +10,7 @@ namespace GitExtensionCheck
     {
         public void SomeChanges()
         {
-            throw new NotImplementedException();
+            Console.ReadLine();
         }
     }
 }
