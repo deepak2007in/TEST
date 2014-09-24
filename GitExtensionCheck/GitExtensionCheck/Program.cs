@@ -10,7 +10,7 @@ namespace GitExtensionCheck
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST");
+            Console.WriteLine("TEST5");
             Console.Read();
         }
     }
